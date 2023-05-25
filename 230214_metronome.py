@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 #!/usr/bin/pyhton3
 # coding: utf-8
 # License : GNU GPL-3.0 or later, see the file COPYING for details.
