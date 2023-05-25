@@ -1,4 +1,24 @@
 #!/usr/bin/env python3
+#!/usr/bin/pyhton3
+# coding: utf-8
+# License : GNU GPL-3.0 or later, see the file COPYING for details.
+# Copyright (C) 2022 Steven Criado <lomographic.music@wordpress.com>
+#
+# This program is free software: you can redistribute it and/or modify 
+# it under the terms of the GNU General Public License as published by the 
+# Free Software Foundation, either version 3 of the License, or (at your 
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful, but 
+# WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY 
+# or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for 
+# more details.
+#
+# You should have received a copy of the GNU General Public License along 
+# with this program. If not, see <https://www.gnu.org/licenses/>.
+#
+# Icons used are from https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+
 import os
 import readline #history for input with arrows
 import atexit #save history
